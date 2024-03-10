@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HangerSquarePack - 3 games/Scenes/TrackGenerator.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
